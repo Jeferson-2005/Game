@@ -36,3 +36,7 @@ index.html : La estructura de la web
 JavaScrip: Sirve para darle funcionalidades y hacer dinamico la pagina web como hacer funcionar los botones,mostrar la lista de amigos y mostrar el amigo elegido
 CSS: Estilos de la pagina web
 
+
+#DESARROLLADOR
+
+Jeferson-2005
